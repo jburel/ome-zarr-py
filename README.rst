@@ -119,7 +119,7 @@ License
 -------
 
 Distributed under the terms of the `BSD`_ license,
-"ome-zarr-py" is free and open source software
+"ome-zarr-py" is free and open source software.
 
 .. _`OME zarr spec`: https://github.com/ome/ngff
 .. _`@napari`: https://github.com/napari
